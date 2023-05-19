@@ -25,11 +25,15 @@ namespace AlgorithmProblems
             //InsertionSort insertion = new InsertionSort();
             //insertion.Sort();
 
+            //Console.WriteLine("\n ===================== \n");
+
+            //BubbleSort bubble = new BubbleSort();
+            //bubble.Sort();
+
             Console.WriteLine("\n ===================== \n");
 
-            BubbleSort bubble = new BubbleSort();
-            bubble.Sort();
-
+            Anagram anagram = new Anagram();
+            anagram.Word();
         }
     }
 }
