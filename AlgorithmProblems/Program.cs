@@ -20,10 +20,16 @@ namespace AlgorithmProblems
             //BinarySearch bs = new BinarySearch();
             //bs.Binary();
 
+            //Console.WriteLine("\n ===================== \n");
+
+            //InsertionSort insertion = new InsertionSort();
+            //insertion.Sort();
+
             Console.WriteLine("\n ===================== \n");
 
-            InsertionSort insertion = new InsertionSort();
-            insertion.Sort();
+            BubbleSort bubble = new BubbleSort();
+            bubble.Sort();
+
         }
     }
 }
