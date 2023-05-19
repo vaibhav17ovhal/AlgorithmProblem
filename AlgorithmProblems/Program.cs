@@ -15,10 +15,15 @@ namespace AlgorithmProblems
             //int n = a.Length;
             //pp.Permutation(a , 0, n - 1);
 
+            //Console.WriteLine("\n ===================== \n");
+
+            //BinarySearch bs = new BinarySearch();
+            //bs.Binary();
+
             Console.WriteLine("\n ===================== \n");
 
-            BinarySearch bs = new BinarySearch();
-            bs.Binary();
+            InsertionSort insertion = new InsertionSort();
+            insertion.Sort();
         }
     }
 }
