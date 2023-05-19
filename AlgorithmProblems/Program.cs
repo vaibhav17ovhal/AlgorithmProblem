@@ -30,10 +30,15 @@ namespace AlgorithmProblems
             //BubbleSort bubble = new BubbleSort();
             //bubble.Sort();
 
+            //Console.WriteLine("\n ===================== \n");
+
+            //Anagram anagram = new Anagram();
+            //anagram.Word();
+
             Console.WriteLine("\n ===================== \n");
 
-            Anagram anagram = new Anagram();
-            anagram.Word();
+            PrimeNumber number = new PrimeNumber();
+            number.Prime();
         }
     }
 }
