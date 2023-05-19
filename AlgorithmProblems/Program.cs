@@ -10,13 +10,6 @@ namespace AlgorithmProblems
 
             //Console.WriteLine("\n ===================== \n");
 
-            //Problems pp = new Problems();
-            //string a = "VAI";
-            //int n = a.Length;
-            //pp.Permutation(a , 0, n - 1);
-
-            Console.WriteLine("\n ===================== \n");
-
             BinarySearch bs = new BinarySearch();
             bs.Binary();
         }
