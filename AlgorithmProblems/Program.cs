@@ -8,7 +8,7 @@ namespace AlgorithmProblems
         {
             Console.WriteLine("Welcome to Algorithm Problem");
 
-            //Console.WriteLine("\n ===================== \n");
+            Console.WriteLine("\n ===================== \n");
 
             BinarySearch bs = new BinarySearch();
             bs.Binary();
