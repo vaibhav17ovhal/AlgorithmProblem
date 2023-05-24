@@ -8,7 +8,7 @@ namespace AlgorithmProblems
 {
     public class BinarySearch
     {
-        public void Binary()
+        public void Binary<T>() where T : IComparable
         {
             Console.Write("Enter a sentence: ");
             string n = Console.ReadLine();

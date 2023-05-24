@@ -27,18 +27,18 @@ namespace AlgorithmProblems
 
             //Console.WriteLine("\n ===================== \n");
 
-            //BubbleSort bubble = new BubbleSort();
-            //bubble.Sort();
+            BubbleSort bubble = new BubbleSort();
+            bubble.Sort();
 
             //Console.WriteLine("\n ===================== \n");
 
             //Anagram anagram = new Anagram();
             //anagram.Word();
 
-            Console.WriteLine("\n ===================== \n");
+            //Console.WriteLine("\n ===================== \n");
 
-            PrimeNumber number = new PrimeNumber();
-            number.Prime();
+            //PrimeNumber number = new PrimeNumber();
+            //number.Prime();
         }
     }
 }
