@@ -9,7 +9,6 @@ namespace AlgorithmProblems
             Console.WriteLine("Welcome to Algorithm Problem");
 
             Console.WriteLine("\n ===================== \n");
-
             Problems pp = new Problems();
             string a = "VAI";
             int n = a.Length;
